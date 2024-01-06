@@ -1,0 +1,11 @@
+.searchInput {
+  width: 100%;
+  height: 2rem;
+  padding-inline: 1rem;
+  border: none;
+ border-radius: 13px;
+}
+.searchInput:focus{
+    border: none;
+}
+
