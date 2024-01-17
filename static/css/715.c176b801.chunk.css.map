@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/715.c176b801.chunk.css","mappings":"AAAA,kCAEE,kBAAmB,CADnB,WAEF","sources":["styles/movieDetailsCard.module.css"],"sourcesContent":[".imgMovie {\r\n  width: 15rem;\r\n  border-radius: 30px;\r\n}\r\n"],"names":[],"sourceRoot":""}
