@@ -11,7 +11,7 @@ export default function Router() {
   return (
     <Suspense fallback={<Loading />}>
       <Routes>
-        <Route path="" element={<HomePage />} />
+        <Route path="/movie-app" element={<HomePage />} />
         <Route path="/movie-details/:id" element={<MovieDetails />} />
         <Route path="/watch-list" element={<WatchList />} />
         <Route path="/register" element={<Register />} />

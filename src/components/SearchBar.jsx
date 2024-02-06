@@ -1,7 +1,6 @@
 import { Grid, Typography, Button, Container } from "@mui/material";
 import styles from "../styles/searchBar.module.css";
-import { useEffect, useRef, useState } from "react";
-import { getSearchMovie } from "../api/moves";
+import { useRef, useState } from "react";
 
 const SearchBar = () => {
   const [searchedMovie, setSearchedMovie] = useState();
