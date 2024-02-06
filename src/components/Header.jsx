@@ -15,7 +15,7 @@ const Header = () => {
   };
 
   const navagateHanddler = () => {
-    navigate(`/`);
+    navigate(`/movie-app`);
   };
 
   return (
